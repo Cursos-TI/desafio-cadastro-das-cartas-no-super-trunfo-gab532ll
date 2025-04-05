@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "CartaSuperTrunfoAVENTUREIRO.C": "cpp"
+        "CartaSuperTrunfoAVENTUREIRO.C": "cpp",
+        "CartaSuperTrunfoMESTRE.C": "cpp"
     }
 }
